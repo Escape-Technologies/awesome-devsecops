@@ -13,10 +13,9 @@ Awesome list of DevSecOps Tools
 - [GolangCI-Lint](https://golangci-lint.run/) - finds vulnerabilities in Go code.
 - [Security Code Scan](https://github.com/security-code-scan/security-code-scan) - finds flaws in .NET code.
 ### DAST (Dynamic Application Security Testing)
-- [Nuclei](https://github.com/projectdiscovery/nuclei) - Wb security scanning framework with a large community database of security checks.
+- [Nuclei](https://github.com/projectdiscovery/nuclei) - Web security scanning framework with a large community database of security checks.
 ### SIEM (Security Event Management)
 - [OSSIM](https://github.com/ossimlabs/ossim) - Free & Open Source Security Incident Event Management
-- 
 ### Secret Detection
 
 ## Ressources
