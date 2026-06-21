@@ -18,5 +18,6 @@ Awesome list of DevSecOps Tools
 ### SIEM (Security Event Management)
 - [OSSIM](https://github.com/ossimlabs/ossim) - Free & Open Source Security Incident Event Management
 ### Secret Detection
+- [dotenv-exposure-check](https://github.com/Perufitlife/dotenv-exposure-check) - CLI that probes a live URL for accidentally-served secret artifacts (.env, .git/, source maps, backups) and confirms each hit by fetching the bytes.
 
 ## Ressources
