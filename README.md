@@ -18,5 +18,6 @@ Awesome list of DevSecOps Tools
 ### SIEM (Security Event Management)
 - [OSSIM](https://github.com/ossimlabs/ossim) - Free & Open Source Security Incident Event Management
 ### Secret Detection
+- [gate.cat](https://github.com/BGMLAI/gate.cat) - Deterministic, fail-closed action veto for AI coding agents; blocks irreversible shell commands and secret exfiltration (rm -rf, DROP TABLE, terraform destroy) before they run, with no LLM in the veto path.
 
 ## Ressources
