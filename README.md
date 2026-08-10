@@ -13,6 +13,9 @@ Awesome list of DevSecOps Tools
 - [dawnscanner](https://rubygems.org/gems/dawnscanner) - finds security flaws in Ruby code.
 - [GolangCI-Lint](https://golangci-lint.run/) - finds vulnerabilities in Go code.
 - [Security Code Scan](https://github.com/security-code-scan/security-code-scan) - finds flaws in .NET code.
+### Compliance review (PR)
+- [heygrc](https://heygrc.com/) - GitHub App that reviews pull requests for compliance-control impact (ISO 27001, SOC 2, GDPR, EU AI Act, …) and cites the control clause. Free for public repositories. By ISMS Copilot.
+
 ### DAST (Dynamic Application Security Testing)
 - [Nuclei](https://github.com/projectdiscovery/nuclei) - Web security scanning framework with a large community database of security checks.
 ### SIEM (Security Event Management)
