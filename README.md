@@ -6,6 +6,7 @@ Awesome list of DevSecOps Tools
 - [DependencyCheck](https://github.com/jeremylong/DependencyCheck) - Tool that searches for vulnerabilities in your dependencies by OWASP.
 - [Snyk](https://github.com/snyk/snyk) - CLI that finds vulnerabilities in your dependencies, supports various languages.
 - [CVE Lite CLI](https://github.com/OWASP/cve-lite-cli) - OWASP Incubator Project. Scans JavaScript and TypeScript lockfiles locally for vulnerable dependencies across npm, pnpm, Yarn, and Bun, with copy-and-run fix commands.
+- [import-effects](https://github.com/royalpinto007/import-effects) - Runs a Python import in a fresh interpreter and reports side effects (file writes, sockets, subprocesses, threads, env changes) for auditing supply-chain risk.
 ### SAST (Source Code Analysis)
 - [semgrep](https://github.com/returntocorp/semgrep) - Awesome tool that can highlight vulnerable code like a linter. Supports various languages.
 - [bandit](https://github.com/PyCQA/bandit) - finds security flaws in Python code.
