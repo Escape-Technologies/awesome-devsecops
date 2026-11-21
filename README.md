@@ -13,6 +13,7 @@ Awesome list of DevSecOps Tools
 - [dawnscanner](https://rubygems.org/gems/dawnscanner) - finds security flaws in Ruby code.
 - [GolangCI-Lint](https://golangci-lint.run/) - finds vulnerabilities in Go code.
 - [Security Code Scan](https://github.com/security-code-scan/security-code-scan) - finds flaws in .NET code.
+- [How Could I Be Hacked](https://github.com/sandhiveio/How-Could-I-Be-Hacked) - Helps review PR diffs using local checks adapted from open-source security reviews.
 ### DAST (Dynamic Application Security Testing)
 - [Nuclei](https://github.com/projectdiscovery/nuclei) - Web security scanning framework with a large community database of security checks.
 ### SIEM (Security Event Management)
